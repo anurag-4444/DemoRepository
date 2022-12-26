@@ -1,0 +1,5 @@
+*.log
+dir/
+static/dir/
+first_renamed.txt
+sdf
